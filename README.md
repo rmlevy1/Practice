@@ -9,3 +9,5 @@ So far these are the steps I am aware of to create a repository from the termina
 3. git add README.md
 4. git commit -m "first commit"
 5. git push origin master
+
+Need to check Justin Markham for more info
