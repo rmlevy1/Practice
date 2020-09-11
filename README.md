@@ -10,4 +10,8 @@ So far these are the steps I am aware of to create a repository from the termina
 4. git commit -m "first commit"
 5. git push origin master
 
+Doesn't seem to be a way to createa repositorty from the terminal.
+Hence, have to create a repository from the GUI and then type git clone "repository link"
+
+
 Need to check Justin Markham for more info
